@@ -1,0 +1,88 @@
+/************************************
+General
+************************************/
+
+.navbar {
+	margin-bottom: 35px
+}
+
+/************************************
+Footer
+************************************/
+.footer {
+	padding-top: 35px;
+	text-align: center;
+}
+
+.social-icon {
+	padding-bottom: 0;
+	max-height: 35px;
+	float: left;
+	margin-left: 15px;
+}
+
+#copyright {
+	text-overflow: none;
+}
+
+
+
+/************************************
+About Page
+************************************/
+
+#profile-photo {
+	max-height: 325px;
+	padding-left: 0;
+	min-width: 380px;
+}
+.Atext {
+
+}
+
+
+
+/************************************
+Profile Page
+************************************/
+
+.jumbotron {
+	background: url("../img/bodø.jpg");
+	opacity: 0.7;
+	background-size: cover;
+}
+.carousel-item {
+	background-size: cover;
+	max-height: 586px;
+}
+#innerText {
+	text-shadow: 3px 3px 3px #4a5354;
+}
+.row {
+	margin-top: 100px;
+}
+
+
+
+/************************************
+Contact Page
+************************************/
+
+.contact-info {
+	list-style-type: none;
+	margin: 0;
+}
+
+.contactImg {
+	max-height: 25px;
+	margin-right: 10px;
+}
+
+
+#Josh {
+	max-height: 315px;
+	margin-right: 25px;
+}
+
+
+
